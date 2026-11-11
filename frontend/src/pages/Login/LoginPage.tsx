@@ -47,7 +47,7 @@ export function LoginPage() {
     <div className="flex h-screen w-full overflow-hidden">
       <AuthLeftPanel
         title="A plataforma ideal para sua escola"
-        subtitle="Alunos, professores, turmas e matrículas — organizados para escolas que ainda vivem de planilhas e grupos de WhatsApp."
+        subtitle="Alunos, professores, turmas e matrículas — organizados para escolas que ainda vivem de planilhas."
       />
       <div className="flex-1 flex flex-col items-center justify-center p-8 bg-white overflow-y-auto">
         <div className="w-full max-w-md">
